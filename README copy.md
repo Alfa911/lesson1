@@ -1,4 +1,3 @@
-# lesson1
 Requirements: Node v16.14.2+
 
 Test commands:
